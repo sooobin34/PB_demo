@@ -1,4 +1,4 @@
-# PB_demo — Vue2 → Vue3 Migration
+# PB_demo — Vue2 → Vue3 변환
 
 이 프로젝트는 Vue2로 작성된 예제를 Vue3 Composition API로 변환한 실습입니다.  
 요구사항에 따라 **변경된 예제(1~7)** 에 대해서만 변경 요약 및 실행 화면을 포함했습니다.
