@@ -6,12 +6,15 @@
 </template>
 
 <script>
+import { ref } from 'vue'
+
 export default {
   name: "E03Binding",
-  data() {
-    return {
-      message: "Hello Vue"
-    };
+
+  setup() {
+    const message = ref("Hello Vue")
+
+    return { message }
   }
-};
+}
 </script>
