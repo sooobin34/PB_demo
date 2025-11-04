@@ -34,10 +34,5 @@ E05 | ![](./screenshots/E05.png) |
 E06 | ![](./screenshots/E06.png) |
 E07 | ![](./screenshots/E07.png) |
 
----
 
-## 실행 방법
 
-```bash```
-npm install
-npm run serve     # 또는 npm run dev
